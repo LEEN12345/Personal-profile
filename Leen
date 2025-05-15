@@ -1,0 +1,6 @@
+cd path/to/your/project
+git init
+git add LEEN.HTML
+git commit -m "Leen alsuliman"
+git remote add origin https://github.com/YourUsername/personal-profile.git
+git push -u origin master
